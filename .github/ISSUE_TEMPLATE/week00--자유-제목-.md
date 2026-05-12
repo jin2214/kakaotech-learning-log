@@ -1,5 +1,5 @@
 ---
-name: 주간 학습일지
+name: week00 <자유 제목>
 about: 카테캠 주간 학습일지 템플릿
 title: ''
 labels: ''
