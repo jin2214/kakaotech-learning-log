@@ -1,6 +1,6 @@
 ---
-name: week00 <자유 제목>
-about: 카테캠 주간 학습일지 템플릿
+name: "[1단계] week00 <자유제목>"
+about: 카테캠 1단계 주간 학습일지 템플릿
 title: ''
 labels: ''
 assignees: jin2214
